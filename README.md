@@ -1,1 +1,1 @@
-# Newspaper-automation
+# Newspaper-automation software project
